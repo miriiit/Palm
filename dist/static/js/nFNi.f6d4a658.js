@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["nFNi"],{nFNi:function(o,i,n){"use strict";n.r(i);var t={name:"PorfolioPosition"},e=n("KHd+"),s=Object(e.a)(t,function(){var o=this.$createElement,i=this._self._c||o;return i("div",[i("el-span",[this._v("Portfolio Positions")])],1)},[],!1,null,null,null);s.options.__file="portfolioPosition.vue";i.default=s.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["8cs1"],{"8cs1":function(e,n,t){"use strict";t.r(n);var s={name:"TradesCount"},u=t("KHd+"),a=Object(u.a)(s,function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("el-span",[this._v("Trades Count")])],1)},[],!1,null,null,null);a.options.__file="tradesCount.vue";n.default=a.exports}}]);
